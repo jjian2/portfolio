@@ -121,56 +121,6 @@ Java & JSP 기반 학교 홈페이지 서비스 개발
 
 👉 프로젝트 상세 설명  
 
----
-
-### 👞 MyLittleShoes
-
-Generative Model 기반 신발 스타일링 서비스
-
-- 개발기간 : 2022.06.28 ~ 2022.07.06  
-- 핵심 역할 : 팀장, 생성 모델 활용 스타일링 기능 구현  
-- Language : Python3  
-- Skill : Django, Django REST Framework  
-
-👉 프로젝트 상세 설명  
-
----
-
-### 🍻 MyLittleBeer
-
-자카드 유사도 기반 맥주 추천 서비스
-
-- 개발기간 : 2022.06.02 ~ 2022.06.13  
-- 핵심 역할 : 팀장, 데이터 전처리 및 추천 알고리즘 구현  
-- Language : Python3, JavaScript  
-- Skill : Django, MySQL  
-
-👉 프로젝트 상세 설명  
-
----
-
-### 👊 MyLittleHero
-
-CNN 기반 닮은 마블 캐릭터 찾기 서비스
-
-- 개발기간 : 2022.05.18 ~ 2022.05.25  
-- 핵심 역할 : 팀장, CNN 모델 학습 및 이미지 매칭 기능 구현  
-- Language : Python3  
-- Skill : Flask, MongoDB  
-
-👉 프로젝트 상세 설명  
-
----
-
-### 🎮 Sparta Fighter
-
-2D 횡스크롤 격투 게임
-
-- 개발기간 : 2022.04.25 ~ 2022.04.27  
-- 핵심 역할 : 캐릭터 클래스 및 이벤트 루프 구현  
-- Language : Python3  
-
-👉 프로젝트 상세 설명  
 
 ---
 
