@@ -14,35 +14,6 @@ AI 기반 감정 분석 서비스, 추천 시스템, 데이터 시각화 대시�
 문제 해결을 위해 구조적으로 접근하며,  
 사용자 편의성과 서비스 안정성을 고려한 개발을 목표로 하고 있습니다.
 
----
-
-## 📂 Projects
-
----
-
-### 🤖 자기소개서 감정 분석 시스템
-
-KoBERT 기반 자연어 처리 모델을 활용한 감정 및 자신감 표현 분석 웹 서비스
-
-- 개발기간 : 2025.04 ~ 2025.06  
-- 핵심 역할 : AI 모델 학습, Flask 서버 구축, 문서 업로드 및 분석 파이프라인 구현, 결과 시각화  
-- Language : Python, JavaScript  
-- Skill : KoBERT, Flask, HuggingFace, HTML/CSS, Chart.js  
-
-👉 프로젝트 상세 설명  
-
----
-
-### 🍽️ 맛집 추천 서비스
-
-블로그 리뷰 수집 및 감정 분석 기반 위치 추천 웹 서비스
-
-- 개발기간 : 2024.11 ~ 2025.03  
-- 핵심 역할 : 전체 서비스 설계, 리뷰 크롤링, 감정 분석 API 연동, 지도 시각화 구현  
-- Language : Java, Python, JavaScript  
-- Skill : Spring Boot, JSP, FastAPI, Kakao Map API, MySQL  
-
-👉 프로젝트 상세 설명  
 
 ---
 
