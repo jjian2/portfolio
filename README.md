@@ -27,7 +27,7 @@ AI 기반 감정 분석 서비스, 추천 시스템, 데이터 시각화 대시�
 - 핵심 역할 : 추천 알고리즘 원리 정리 및 시각 자료 제작, 발표 수행  
 - Skill : PPT, 추천 알고리즘 구조 분석  
 
-👉 [프로젝트 상세 설명](https://github.com/jian2/recommender-system-visualization)
+👉 [프로젝트 상세 설명](https://github.com/jjian2/recommender-system-visualization)
 
 ---
 
