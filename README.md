@@ -38,7 +38,7 @@ AI 기반 감정 분석 서비스, 추천 시스템, 데이터 시각화 대시�
 - Language : Python  
 - Skill : CNN, KNN, ArcFace, 하이퍼파라미터 튜닝  
 
-👉 [프로젝트 상세 설명](https://github.com/jian2/happywhale-image-recognition)
+👉 [프로젝트 상세 설명](https://github.com/jjian2/happywhale-image-recognition)
 
 ---
 
@@ -49,7 +49,7 @@ AI 기반 감정 분석 서비스, 추천 시스템, 데이터 시각화 대시�
 - Language : Java, JavaScript  
 - Skill : JSP, SQL, Naver Map API  
 
-👉 [프로젝트 상세 설명](https://github.com/jian2/university-web-service)
+👉 [프로젝트 상세 설명](https://github.com/jjian2/university-web-service)
 
 ---
 
@@ -60,7 +60,7 @@ AI 기반 감정 분석 서비스, 추천 시스템, 데이터 시각화 대시�
 - Language : Java, Python, JavaScript  
 - Skill : Spring Boot, JSP, FastAPI, Kakao Map API, MySQL  
 
-👉 [프로젝트 상세 설명](https://github.com/jian2/restaurant-recommendation-system)
+👉 [프로젝트 상세 설명](https://github.com/jjian2/restaurant-recommendation-system)
 
 ---
 
@@ -71,7 +71,7 @@ AI 기반 감정 분석 서비스, 추천 시스템, 데이터 시각화 대시�
 - Language : Java, Python  
 - Skill : Flask, JSP, HuggingFace, CORS 처리  
 
-👉 [프로젝트 상세 설명](https://github.com/jian2/news-summary-service)
+👉 [프로젝트 상세 설명](https://github.com/jjian2/news-summary-service)
 
 ---
 
@@ -82,7 +82,20 @@ AI 기반 감정 분석 서비스, 추천 시스템, 데이터 시각화 대시�
 - Language : Python  
 - Skill : Pandas, Streamlit, Matplotlib, Plotly  
 
-👉 [프로젝트 상세 설명](https://github.com/jian2/cybercrime-dashboard)
+👉 [프로젝트 상세 설명](https://github.com/jjian2/cybercrime-dashboard)
+
+---
+
+
+### 🤖 자기소개서 감정 분석 시스템  
+
+- 개발기간 : 2025.04 ~ 2025.06  
+- 핵심 역할 : AI 모델 학습, Flask 서버 구축, 문서 업로드 및 분석 파이프라인 구현, 결과 시각화  
+- Language : Python, JavaScript  
+- Skill : KoBERT, Flask, HuggingFace, HTML/CSS, Chart.js  
+
+👉 [프로젝트 상세 설명](https://github.com/jjian2/resume-sentiment-analysis)
+
 
 ---
 
@@ -93,19 +106,7 @@ AI 기반 감정 분석 서비스, 추천 시스템, 데이터 시각화 대시�
 - Language : Python, JavaScript  
 - Skill : Whisper, Edge-TTS, FastAPI, Flask  
 
-👉 [프로젝트 상세 설명](https://github.com/jian2/university-chatbot)
-
----
-
-### 🤖 자기소개서 감정 분석 시스템  
-
-- 개발기간 : 2025.04 ~ 2025.06  
-- 핵심 역할 : AI 모델 학습, Flask 서버 구축, 문서 업로드 및 분석 파이프라인 구현, 결과 시각화  
-- Language : Python, JavaScript  
-- Skill : KoBERT, Flask, HuggingFace, HTML/CSS, Chart.js  
-
-👉 [프로젝트 상세 설명](https://github.com/jian2/resume-sentiment-analysis)
-
+👉 [프로젝트 상세 설명](https://github.com/jjian2/university-chatbot-)
 
 ---
 ## 🛠️ Skills
