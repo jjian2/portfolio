@@ -124,7 +124,7 @@ AI 기반 감정 분석 서비스, 추천 시스템, 데이터 시각화 대시�
 - 지도 기반 네일샵 검색 및 리뷰
 - 유료 구독 모델 및 광고 수익 구조 설계
 
-👉 [기획 포트폴리오 상세 보기]((https://github.com/jjian2/Nail-Tomorrow))
+👉 [기획 포트폴리오 상세 보기](https://github.com/jjian2/Nail-Tomorrow)
 
 
 ## 🛠️ Skills
